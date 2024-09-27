@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Phishing Campaign
 
 ## Objective
 [Brief Objective - Remove this afterwards]
